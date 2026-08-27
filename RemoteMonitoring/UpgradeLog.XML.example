@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RemoteMonitoring">
+</Property><Property Name="Solution File" Value="\\host.example\downloads\Coding\webcam\RemoteMonitoring\RemoteMonitoring.sln">
+</Property><Property Name="Date" Value="Sunday, 31 August 2008">
+</Property><Property Name="Time" Value="11:06:06 AM">
+</Property></Properties><Event ErrorLevel="0" Project="RemoteMonitoring" Source="RemoteMonitoring.vbproj" Description="Project file successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\RemoteMonitoring.vbproj">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="Form1.vb" Description="File successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="Form1.Designer.vb" Description="File successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="Module1.vb" Description="File successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="My Project\Application.Designer.vb" Description="File successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="WebCamClient.vb" Description="File successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\WebCamClient.vb">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="My Project\Application.myapp" Description="File successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="My Project\Settings.settings" Description="File successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="Form1.resx" Description="File successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="My Project\Resources.resx" Description="File successfully backed up as \\host.example\downloads\Coding\webcam\RemoteMonitoring\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="RemoteMonitoring.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RemoteMonitoring" Source="RemoteMonitoring.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemoteMonitoring" Source="RemoteMonitoring.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,11 @@
+Wei-Meng Lee / DevX VB.NET webcam remote-monitoring sample
+Copyright © 2006 (assembly copyright; empty AssemblyCompany)
+
+This tree is Dave Robinson's working copy of a third-party DevX sample
+(RemoteMonitoring + RemoteMonitoringClient). There is no separable
+VaderConsulting wrapper. This repository does not relicense the tree as
+VaderConsulting MIT.
+
+No DevX or author license file was present in the OneDrive Historical Dev
+folder. Original publication terms (if any) remain with Wei-Meng Lee / DevX.
+See THIRD_PARTY_NOTICES.md.

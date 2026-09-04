@@ -17,6 +17,10 @@ Dave Robinson's working copy of Wei-Meng Lee's VB.NET WinForms webcam server/cli
 
 Open `webcam.sln` in Visual Studio 2005 or later (solution format 9.00 / Visual Studio 2005). Nested `RemoteMonitoring/RemoteMonitoring.sln` and `RemoteMonitoringClient/RemoteMonitoringClient.sln` open the projects separately. Requires a Windows webcam (or compatible WDM capture driver) for the server preview, and `avicap32.dll` / `user32.dll` P/Invoke. Default listen/connect address is `127.0.0.1:500`.
 
+## Requirements
+
+- Visual Studio 2005 to 2008
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `webcam` of Wei-Meng Lee's DevX VB.NET webcam sample (see `THIRD_PARTY_NOTICES.md`).

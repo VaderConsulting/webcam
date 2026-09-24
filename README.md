@@ -23,7 +23,7 @@ Open `webcam.sln` in Visual Studio 2005 or later (solution format 9.00 / Visual 
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `webcam` of Wei-Meng Lee's DevX VB.NET webcam sample (see `THIRD_PARTY_NOTICES.md`).
+Working copy from my Historical Dev folder `webcam` of Wei-Meng Lee's DevX VB.NET webcam sample (see `THIRD_PARTY_NOTICES.md`).
 
 - **Original author:** Wei-Meng Lee / DevX (2006)
 - **Assembly title / product:** RemoteMonitoring, RemoteMonitoringClient

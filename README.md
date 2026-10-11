@@ -34,4 +34,4 @@ Working copy from my Historical Dev folder `webcam` of Wei-Meng Lee's DevX VB.NE
 
 ## License
 
-Original Wei-Meng Lee / DevX publication terms (no license file in the OneDrive folder). This repository does **not** relicense the tree as VaderConsulting MIT. There is no separable Dave Robinson wrapper. See `LICENSE` and `THIRD_PARTY_NOTICES.md`.
+Original Wei-Meng Lee / DevX publication terms (no license file in the OneDrive folder). This repository does **not** relicense the tree as Vader Consulting MIT. There is no separable Dave Robinson wrapper. See `LICENSE` and `THIRD_PARTY_NOTICES.md`.

@@ -2,8 +2,8 @@
 
 This tree is Dave Robinson's working copy of Wei-Meng Lee's DevX VB.NET webcam
 TCP-streaming sample (`RemoteMonitoring` + `RemoteMonitoringClient`). There is
-no separable VaderConsulting wrapper. Do not treat the sample source as
-VaderConsulting MIT-licensed original work.
+no separable Vader Consulting wrapper. Do not treat the sample source as
+Vader Consulting MIT-licensed original work.
 
 ## Wei-Meng Lee / DevX (2006)
 
